@@ -1,8 +1,6 @@
 # TODO-App
  Simple task manager on Django
 ==============================
-# python-django-mini-blog
- My first mini blog on Django
 
 Requirements:
 
